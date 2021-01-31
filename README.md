@@ -2,7 +2,7 @@
 ### 🔭 I’m currently working as a Web Developer :globe_with_meridians:
 ### 🌱 I’m currently learning everything about web
 ### 📫 How to reach me: youssef.antar99@gmail.com
-### :video_game: Fun fact: Guess who is also a Gamer!
+### :zap: Fun fact: Guess who is also a Gamer! :video_game:
 ### My Social media wrold : 
 
 [<img style="fill:#e73758;" align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
