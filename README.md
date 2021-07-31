@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="400px" src="https://cdn.pixabay.com/photo/2019/10/09/07/28/development-4536630_960_720.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Youssef</h1>
 <h3 align="center">I'm a passionate Full Stack Developer</h3>
@@ -13,6 +13,9 @@
 - 📫 How to reach me **youssef.antar99@gmail.com**
 
 - ⚡ Fun fact: Guess who's also a **Gamer**🎮
+
+<br/>
+
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
@@ -40,11 +43,6 @@
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-
-<br/>
-<br/>
-
-<a href="https://github.com/Youssefanter/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Youssefanter&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
