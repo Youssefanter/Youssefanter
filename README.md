@@ -2,7 +2,7 @@
   <img src="https://i.imgur.com/8MupZHY.gif" width="400px" />
   <br>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">, I'm Youssef</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5px">, I'm Youssef</h1>
 <h3 align="center">I'm a passionate Full Stack Developer</h3>
 
 
