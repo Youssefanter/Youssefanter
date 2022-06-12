@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://i.imgur.com/8MupZHY.gif" width="400px" />
+  <img src="https://i.imgur.com/8MupZHY.gif" width="300px" />
   <br>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5px">, I'm Youssef</h1>
+<h1 align="center">Hi <img src="https://tenor.com/view/hi-gif-23520343" width="5px">, I'm Youssef</h1>
 <h3 align="center">I'm a passionate Full Stack Developer</h3>
 
 
