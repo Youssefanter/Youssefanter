@@ -2,10 +2,12 @@
   <img src="https://i.imgur.com/8MupZHY.gif" width="300px" />
   <br>
 
-<h1 align="center">Hi 👋, I'm Youssef</h1>
-<h3 align="center">I'm a passionate Full Stack Developer</h3>
+ <a href="https://github.com/Youssefanter?tab=repositories"><img style="   display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%; " src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&color=2FA2D5&multiline=true&width=470&height=150&lines=%2F%2F+Hi+there+%F0%9F%91%8B;%7B;%22name%22++++++%3A+%22Youssef+Antar+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%22+%2C;%22title%22+%3A+%22Junior+Web+Developer+%2C;%7D" alt="Youssef Antar" /></a>
 
-
+  
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working as a **Web Developer**🌐
@@ -39,8 +41,8 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/Youssefanter/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Youssefanter&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Youssefanter/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssefanter&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/Youssefanter/github-readme-stats"><img alt="Youssef Antar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Youssefanter&show_icons=true&count_private=true&theme=react&bg_color=0D1117" /></a>
+  <a href="https://github.com/Youssefanter/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssefanter&langs_count=8&count_private=true&layout=compact&theme=react&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
